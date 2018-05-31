@@ -19,4 +19,4 @@ To use the application:
 
 This application is a multimedia content attached to the manuscript submitted to IEEE Transactions on Industry Applications. More information about the system is explained in the manuscript.
 
-![alt text](https://github.com/lucasbellinaso/Vpv_control_stability/edit/master/Screenshot.jpg)
+![Screenshot](Screenshot.jpg)
