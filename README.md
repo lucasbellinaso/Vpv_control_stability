@@ -18,3 +18,5 @@ To use the application:
 5) Press the button "Press to Calculate" to plot to root locus and verify the stability to all operation points. You can select to consider the parametric variations of Cpv (component tolerance).
 
 This application is a multimedia content attached to the manuscript submitted to IEEE Transactions on Industry Applications. More information about the system is explained in the manuscript.
+
+![alt text](https://github.com/lucasbellinaso/Vpv_control_stability/edit/master/Screenshot.jpg)
